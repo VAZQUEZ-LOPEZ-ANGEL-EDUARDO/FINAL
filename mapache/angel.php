@@ -23,7 +23,7 @@
                         <a class="nav-link dropdown-toggle" href="./index.html" id="navbarNavDropdownMenuLink"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #ecf39e;">tripulacion</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="angel.php" style="color: #000;">mostrar datos</a><br>
+                            <a class="dropdown-item" href="mapache/angel.php" style="color: #000;">mostrar datos</a><br>
                             <a class="dropdown-item" href="angel2.php" style="color: #000;">mostras Datos</a><br>
                             <a class="dropdown-item" href="angel3.php" style="color: #000;">meter Datos</a><br>
                         </div>
